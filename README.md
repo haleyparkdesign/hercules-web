@@ -1,4 +1,4 @@
-# Hercules
+# Labors of Hercules
 
 Understanding Game Engine [Summer 2020 @CMU]
 
